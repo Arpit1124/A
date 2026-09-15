@@ -1,0 +1,7 @@
+{
+  "name": "FerryFlow — Real-Time Ferry Operations & Passenger Management",
+  "description": "Real-time maritime tracking platform, fleet operations command center, ferry booking, digital ticketing, and passenger management system.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
